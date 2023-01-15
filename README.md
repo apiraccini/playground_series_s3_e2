@@ -1,2 +1,2 @@
-# playground_series_s3_e2
+# playground_series_s3e2
 Kaggle competition.
